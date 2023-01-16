@@ -36671,7 +36671,7 @@ body {
 }
 .content-wrapper,
 footer {
-  flex-shrink: ;
+  flex-shrink: 0;
 }
 .content-wrapper {
   flex-grow: 1;
