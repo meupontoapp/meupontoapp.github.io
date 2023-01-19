@@ -151,9 +151,6 @@ body {
     border: 0 solid transparent;
 }
 
-.img-auto{
-  ;
-}
 
 .fs-54.titulo-tela1 {
   color:#7c00f9;
@@ -180,7 +177,15 @@ body {
     width: 20px;    
   }
 
-
+.CorDoTítuloH1{
+  color: #1b004f;
+  text-align: center;
+  font-size: 45px;
+  font-weight: 700;
+}
+.PosicaoParagradoTela2{
+  text-align: center;
+}
 
 /*fim da seção 1*/
 
@@ -205,9 +210,11 @@ body {
   height: 90px;
  }
 
- .carousel {
-  
- }
+.center{
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
  
 
 
