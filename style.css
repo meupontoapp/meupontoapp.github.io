@@ -1,3 +1,4 @@
+
 @charset "UTF-8";
 /*!
 Theme Name: Sandbox - Modern & Multipurpose Bootstrap 5 Template
@@ -9,6 +10,7 @@ Author:		elemis
 
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
@@ -180,8 +182,8 @@ body {
 .CorDoTítuloH1{
   color: #1b004f;
   text-align: center;
-  font-size: 45px;
-  font-weight: 700;
+  font-size: 43px;
+  font-weight:51.6;
 }
 .PosicaoParagradoTela2{
   text-align: center;
@@ -221,15 +223,87 @@ body {
 /*fim da seção 2*/
 
 /*seção 3*/
+
+.PosicaoConteudo{
+margin-left:10%;
+margin-right:10%;
+}
+
+.imagem-tela3 {
+  width: 700px;
+}
+
+.margin-col-tela3 {
+ padding: 5%;
+}
+
+.titulo-tela2 {
+  font-family: 'inter';
+  font-weight: 800;
+  font-size: 38px ;
+  line-height: 1.2em;
+  text-align: left;
+}
+.Botao-tela3{
+  width: 150px;
+  height: 50px;
+  border-radius: 100px;
+  font-weight: 600;
+  border: none;
+  color: #f5f5f5;
+  background-color: #FF0068;
+  
+}
+
 /*fim da seção 3*/
 
 /*seção 4*/
+.icontela4{
+  width: 50px;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.Mimagemcard{
+  margin: auto;
+}
+.tituloh1card{
+  font-size: 16px;
+}
+.titulop1card{
+  font-size: 14px;
+}
+.marginentrecard{
+padding: 10px;
+}
 /*fim da seção 4*/
 
 /*seção 5*/
+.imagem-tela5 {
+  width: 500px;
+}
+
+.titulo-tela5{
+  font-family: 'inter';
+  font-size: 40px;
+  line-height: 1;
+  color: #1B004F;
+}
+
+.paragrafo-tela5 {
+  font-family: 'jost';
+  margin-bottom: 60px;
+  font-size: 19px;
+}
+
 /*fim da seção 5*/
 
 /*seção 6*/
+
+.imagem-tela6 {
+  max-width: 90%;
+}
+
 /*fim da seção 6*/
 
 /*seção 7*/
@@ -245,6 +319,15 @@ body {
 /*fim do footer*/
 
 /*fim do meu css*/
+/*minhas medias*/
+/* @media (min-width:1600px) {
+  .PosicaoConteudo{
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:0;
+    margin-bottom:0;
+    }
+} */
 
 hr {
   margin: 4.5rem 0;
