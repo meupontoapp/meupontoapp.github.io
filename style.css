@@ -184,9 +184,12 @@ body {
   text-align: center;
   font-size: 43px;
   font-weight:51.6;
+  font-family: 'inter';
+  font-weight: bold;
 }
 .PosicaoParagradoTela2{
   text-align: center;
+  font-family: 'jost';
 }
 
 /*fim da seção 1*/
@@ -303,6 +306,18 @@ padding: 10px;
 .imagem-tela6 {
   max-width: 90%;
 }
+
+.paragrafo-tela6 {
+  font-family: 'jost';
+}
+
+.titulo-tela6 {
+  font-family: 'inter';
+  color:#1B004F;
+  font-size: 40px;
+  line-height: 1em;
+  font-weight: bold;
+  }
 
 /*fim da seção 6*/
 
