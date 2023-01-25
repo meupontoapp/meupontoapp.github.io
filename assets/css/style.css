@@ -34,8 +34,8 @@ Author:		elemis
   --bs-white: #fff;
   --bs-light: #fefefe;
   --bs-gray: #f6f7f9;
-  --bs-dark: #262b32;
-  --bs-primary: #3f78e0;
+  --bs-dark: #322626;
+  --bs-primary: #7601fa;
   --bs-secondary: #aab0bc;
   --bs-success: #45c4a0;
   --bs-info: #54a8c7;
@@ -9586,7 +9586,7 @@ fieldset:disabled .btn {
 }
 .mb-4 {
   margin-bottom: 1rem !important;
-}
+  }
 .mb-5 {
   margin-bottom: 1.25rem !important;
 }
@@ -27286,7 +27286,7 @@ button:focus {
   --bs-btn-active-bg: $value;
   --bs-btn-active-border-color: $value;
   --bs-btn-active-shadow: var(--bs-btn-box-shadow);
-  --bs-btn-color: #fff;
+  --bs-btn-color: #fffff;
   --bs-btn-bg: #3f78e0;
   --bs-btn-border-color: #3f78e0;
   --bs-btn-hover-color: #fff;

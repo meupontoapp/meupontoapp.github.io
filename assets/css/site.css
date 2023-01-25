@@ -1,5 +1,6 @@
 .brainup-text-check{
   margin-top:3px;
+  
 }
 
 .brainup-icon-check{
@@ -21,6 +22,8 @@
   font-size:16px
 }
 
+
+
 .marginentrecard {
   padding: 10px;
 }
@@ -31,4 +34,18 @@
 
 .brainup-icon {
   width: 30px;
+}
+
+.brainup-logo {
+  width: 150px;
+  margin-left: -20px;
+  
+}
+
+h1 {
+  color:#7601fa ;
+}
+
+.btn-primary {
+  background-color: #7601fa !important;
 }
