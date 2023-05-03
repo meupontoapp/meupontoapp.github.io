@@ -11175,7 +11175,7 @@ fieldset:disabled .btn {
 }
 .text-inverse {
   --bs-text-opacity: 1;
-  color: #cacaca !important;
+  color: #fff !important;
 }
 .text-dark {
   --bs-text-opacity: 1;
@@ -21955,7 +21955,7 @@ a.text-reset:hover,
 [class*=offcanvas-].text-inverse a:not(.btn):not([class*=link-]),
 .bg-navy.text-inverse .post-meta,
 .bg-dark.text-inverse .post-meta {
-  color: #cacaca;
+  color: #fff;
 }
 .text-inverse a:not(.btn):hover,
 .bg-dark.text-inverse a:not(.btn):not([class*=link-]):hover,
@@ -38336,7 +38336,7 @@ footer [class*=col-] .widget+.widget {
 }
 footer.bg-dark,
 .footer.bg-dark {
-  background: #747ed1  !important;
+  background: #7900ff  !important;
 }
 .image-wrapper {
   background: no-repeat center center;

@@ -49,3 +49,20 @@ h1 {
 .btn-primary {
   background-color: #7601fa !important;
 }
+.corMenuCelular{
+  background: #7601fa !important; ;
+}
+.marginParaOverflow{
+  margin-top: 10%;
+}
+@media (max-width: 660px) {
+  .marginParaOverflow{
+    margin-top: 0%;
+  }
+  .overflow-hidden{
+    display: none;
+  }
+  .margemSeçãoDois{
+    display: none !important;
+  }
+} 
