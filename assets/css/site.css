@@ -65,4 +65,7 @@ h1 {
   .margemSeçãoDois{
     display: none !important;
   }
+  .imgNone{
+    display: none;
+  }
 } 
