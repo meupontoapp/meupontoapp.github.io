@@ -55,6 +55,7 @@ h1 {
 .marginParaOverflow{
   margin-top: 10%;
 }
+
 @media (max-width: 660px) {
   .marginParaOverflow{
     margin-top: 0%;
