@@ -41,7 +41,18 @@
   margin-left: -20px;
   
 }
-
+.corCard{
+  background-color: #7601fa;
+  color: #fff;
+}
+.corButton{
+  background-color: #fff;
+  color: #343f52;
+}
+.corButton:hover{
+  background-color: #fff;
+  color: #343f52;
+}
 h1 {
   color:#7601fa ;
 }
